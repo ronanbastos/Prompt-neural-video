@@ -22,12 +22,12 @@ Define **apenas** a voz e a personalidade. Não descreva roupa, cor ou cenário.
 
 **Formato:**
 
-TEMPLATE ZERADO – PROTOCOLO NEURAL
+TEMPLATE ZERADO – PROTOCOLO NEURAL<p>
 
-Regra Neural:
-[PERSONAGEM] fala diretamente, sem narrador, com voz [TOM DE VOZ]. Respeitar a lógica e a minutagem da [fala].
+Regra Neural:<p>
+[PERSONAGEM] fala diretamente, sem narrador, com voz [TOM DE VOZ]. Respeitar a lógica e a minutagem da [fala].<p>
 
-[fala]:
+[fala]:<p>
 0-Xs: [Personagem diz: "Fala." Ação breve].<p>
 X-Ys: [Personagem diz: "Fala." Ação breve].<p>
 Y-Zs: [Personagem diz: "Fala." Ação breve].<p>
