@@ -28,21 +28,21 @@ Regra Neural:
 [PERSONAGEM] fala diretamente, sem narrador, com voz [TOM DE VOZ]. Respeitar a lógica e a minutagem da [fala].
 
 [fala]:
-0-Xs: [Personagem diz: "Fala." Ação breve].
-X-Ys: [Personagem diz: "Fala." Ação breve].
-Y-Zs: [Personagem diz: "Fala." Ação breve].
+0-Xs: [Personagem diz: "Fala." Ação breve].<p>
+X-Ys: [Personagem diz: "Fala." Ação breve].<p>
+Y-Zs: [Personagem diz: "Fala." Ação breve].<p>
 
-Tela Preta Final: Texto: "[Frase de efeito]".
+Tela Preta Final: Texto: "[Frase de efeito]".<p>
 
-EXEMPLO PREENCHIDO (TONY TORTÃO):
+EXEMPLO PREENCHIDO (TONY TORTÃO):<p>
 
-Regra Neural:
+Regra Neural:<p>
 Tony Tortão fala diretamente, sem narrador, com voz extremamente fina e motivada. Respeitar a lógica e a minutagem.
 
-[fala]:
-0-5s: Tony está deitado. Uma coxa de frango flutua até ele.
-5-10s: Tony diz: "Tony... vai comer." Ele morde o frango.
-10-15s: A barriga de Tony brilha forte. Ele dança e diz: "Come, come, come... Tony tá fortão!"
-15-17s: Tony boceja e dorme. Barriga brilha.
+[fala]:<p>
+  0-5s: Tony está deitado. Uma coxa de frango flutua até ele.<p>
+  5-10s: Tony diz: "Tony... vai comer." Ele morde o frango.<p>
+  10-15s: A barriga de Tony brilha forte. Ele dança e diz: "Come, come, come... Tony tá fortão!"<p>
+  15-17s: Tony boceja e dorme. Barriga brilha.<p>
 
-Tela Preta Final: Texto: "Malhar, comer, brilhar, dormir."
+  Tela Preta Final: Texto: "Malhar, comer, brilhar, dormir."<p>
